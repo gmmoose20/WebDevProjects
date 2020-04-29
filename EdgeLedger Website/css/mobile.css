@@ -58,7 +58,7 @@
     }
 
     #contact .map {
-        height: 200px;
+        min-height: 200px;
         border-top: 5px solid #333;
 
     }
